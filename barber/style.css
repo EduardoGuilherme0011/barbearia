@@ -20,6 +20,14 @@ font-style: initial;
     border-color: rgb(255, 123, 0);
     border-radius: 40px;
     border-style: groove;
-    border-width: 48px;
+    border-width: 48px; 
 
+}
+
+.Contato { 
+background-color: rgb(237, 173, 100);
+width: 30%;
+border-radius: 30px;
+margin: auto;
+text-align: center;
 }
