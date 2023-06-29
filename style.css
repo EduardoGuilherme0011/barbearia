@@ -1,0 +1,33 @@
+h1 {
+text-align: center;
+color:rgb(113, 21, 141);
+font-size: 70px;
+font-style: oblique;
+background-color: rgb(190, 134, 11);
+}
+
+b {
+color: rgb(145, 20, 228);
+font-family: 'Times New Roman', Times, serif;
+font-size: 28px;
+font-style: initial;
+}
+  .imagem {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1080px;
+    border-color: rgb(255, 0, 242);
+    border-radius: 40px;
+    border-style: groove;
+    border-width: 48px; 
+
+}
+
+.Contato { 
+background-color: rgb(237, 173, 100);
+width: 30%;
+border-radius: 30px;
+margin: auto;
+text-align: center;
+}
