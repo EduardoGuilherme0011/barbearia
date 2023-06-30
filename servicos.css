@@ -75,3 +75,18 @@ header {
      font-weight: bold;
      margin-top: 10px;
  }
+
+footer {
+    text-align: center;
+    background-color: blueviolet;
+    padding: 40px;
+}
+
+footer img {
+    width: 6%;
+}
+
+.copyright {
+    font-size: 13px;
+    margin: 20px 0 0;
+}
