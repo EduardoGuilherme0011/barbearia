@@ -1,0 +1,92 @@
+header {
+     background-color: rgb(255, 174, 0);
+ }
+ 
+ nav li {
+     display: inline;
+     margin-right: 10px;
+ }
+ 
+ nav a:hover {
+     text-decoration: underline;
+     color: rgba(255, 166, 0, 0.74)
+ }
+ 
+ nav a {
+     text-transform: uppercase;
+     color: rgb(162, 2, 255);
+     font-weight: bold;
+     font-size: 30px;
+     text-decoration: none;
+ }
+ .imagem {
+     width: 200px;
+ }
+ 
+ .servicos {
+     width: 940px;
+     margin: 0 auto;
+     padding: 50px 0;
+ }
+ 
+ .servicos li {
+     display: inline-block;
+     text-align: center;
+     width: 30%;
+     vertical-align: top;
+     margin: 0 1.5%;
+     padding: 30px 0px;
+     box-sizing: border-box;
+     border: 2px solid rgb(255, 196, 0);
+     border-radius: 10px;
+ }
+ 
+ .servicos li:hover {
+     border-color: rgb(140, 0, 255);
+ }
+ 
+ .servicos li:hover h2 {
+     font-size: 34px;
+     color: rgb(0, 119, 255);
+ }
+ 
+ .servicos li:active {
+     border-color: rgb(146, 0, 0);
+     border-width: 4px;
+ }
+ 
+ .servicos img {
+     width: 50%;
+     height: 200px;
+ }
+ 
+ .servicos h2 {
+     font-size: 30px;
+     font-weight: bold;
+     padding-bottom: 15px;
+ }
+ 
+ .descricao {
+     font-size: 18px;
+ }
+ 
+ .preco {
+     font-size: 22px;
+     font-weight: bold;
+     margin-top: 10px;
+ }
+
+footer {
+    text-align: center;
+    background-color: blueviolet;
+    padding: 40px;
+}
+
+footer img {
+    width: 6%;
+}
+
+.copyright {
+    font-size: 13px;
+    margin: 20px 0 0;
+}
