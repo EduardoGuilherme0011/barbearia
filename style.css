@@ -19,7 +19,7 @@ header {
      font-size: 30px;
      text-decoration: none;
  }
- .imagem {
+ .freddy{
      width: 200px;
  }
  
@@ -80,6 +80,7 @@ footer {
     text-align: center;
     background-color: blueviolet;
     padding: 40px;
+    clear: left;
 }
 
 footer img {
@@ -156,18 +157,21 @@ form input-padrao{
  /*css da paágina inicial*/
 
  .imagem{
-    width: 50%;
-    height: 100%;
+    width: 100%;
+    height: 50%;
  }
 
  .titulo-principal{
     text-align: center;
     font-size: 2em;
     margin: 0 0 1em;
+   
  }
 
  .texto, .contato{
     margin: 0 0 1em;
+    width: 940px;
+    margin: 0 auto;
  }
 
  .texto p, .contato p {
@@ -175,5 +179,7 @@ form input-padrao{
  }
 
  .imagem-principal{
-    
- }
+    width: 120px;
+    float: left;
+    margin: 0 20px 20px 0;
+}
